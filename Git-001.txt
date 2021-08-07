@@ -3,3 +3,4 @@ Step1: go to login page.
 Step2: enter username and password.
 Step3: Click login button.
 Step4: Record the result.
+Step5: again start from the 'step1'.

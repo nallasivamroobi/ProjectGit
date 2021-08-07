@@ -1,0 +1,5 @@
+For testing main functionality of Login
+Step1: go to login page.
+Step2: enter username and password.
+Step3: Click login button.
+Step4: Record the result.

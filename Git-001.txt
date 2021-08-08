@@ -4,3 +4,5 @@ Step2: enter username and password.
 Step3: Click login button.
 Step4: Record the result.
 Step5: again start from the 'step1'.
+Step6: Add Audio call feature.
+Step7: Add Video call feature.
